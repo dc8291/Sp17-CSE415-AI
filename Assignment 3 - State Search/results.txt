@@ -1,0 +1,29 @@
+Daniel Chai
+
+puzzle10a.py:
+CREATE_INITIAL_STATE = lambda: [4, 5, 0, 1, 2, 3, 6, 7, 8]
+hamming = 37 states
+euclidean = 20 states
+manhattan = 14 states
+custom = 14 states
+
+puzzle12a.py:
+CREATE_INITIAL_STATE = lambda: [3, 1, 2, 6, 8, 7, 5, 4, 0]
+hamming = 71 states
+euclidean = 59 states
+manhattan = 43 states
+custom = 43 states
+
+puzzle14a.py:
+CREATE_INITIAL_STATE = lambda: [4, 5, 0, 1, 2, 8, 3, 7, 6]
+hamming = 144 states
+euclidean = 53 states
+manhattan = 58 states
+custom = 58 states
+
+puzzle16a.py:
+CREATE_INITIAL_STATE = lambda: [0, 8, 2, 1, 7, 4, 3, 6, 5]
+hamming = 431 states
+euclidean = 274 states
+manhattan = 202 states
+custom = 202 states

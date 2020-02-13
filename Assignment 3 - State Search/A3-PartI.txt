@@ -1,0 +1,17 @@
+Daniel Chai
+CSE 415 
+Assignment 3 
+
+
+1. There are total of 1260 possible states when 5 pieces have been placed. 
+   I came up with this answer because there are 9 places where X can place its 3 pieces.
+   O has 6 leftover places where it can place its 2 pieces. 
+   The combinations comes out to be 84 for X's and 15 for O's.
+   So, if we multiply these numbers to find all the possibilty, we can find 1260.
+
+2. There are total of 26640900 possible states after the six moves.
+   I used the exact same method as the first one.
+   There were 27 places for X to place its 2 pieces.
+   25 places for Y to place its 2 pieces, and 23 places for Z to place its 2 pieces.
+   The combinations come out to be 351, 300, 253 for X, Y, and Z, respectively.
+   Multiplying these numbers, we get 26640900.

@@ -1,0 +1,50 @@
+0A: Miso: My name is Miso, and I sell ramen.
+          I was programmed by Daniel Chai.
+          If you don't like me, contact him at dc8291@uw.edu
+          I like ramen.
+          What do you like to eat?
+
+0B: Politician: My name is Penny, and I am a political junkie. 
+		I was programmed by Etai Liokumovich. 
+		If you don't like my politics, contact him @ etailkmv@uw.edu.
+		How can I be of service today?
+
+1A: Miso: Good morning to you too.
+
+1B: Politician: Speak softly and carry a big stick.      
+
+2A: Miso: Why did you come up with that?     #CYCLE FEATURE 
+
+2B: Politician: Mistakes were made.
+
+3A: Miso: You are very creative.   #CYCLE FEATURE
+
+3B: Politician: The only thing we have to fear is fear itself.
+
+4A: Miso: Let's talk about something else.   #CYCLE FEATURE
+
+4B: Politician: Let us make America great again!
+
+5A: Miso: Can we talk about something else?   #CYCLE FEATURE
+
+5B: Politician: Speak softly and carry a big stick.
+
+6A: Miso: That triggers me.   #CYCLE FEATURE
+
+6B: Politician: That triggers you.
+
+7A: Miso: Why so random?   #CYCLE FEATURE
+
+7B: Politician: Mistakes were made.
+
+8A: Miso: Why did you come up with that?   #CYCLE FEATURE
+
+8B: Politician: The only thing we have to fear is fear itself.
+
+9A: Miso: You are very creative.   #CYCLE FEATURE
+
+9B: Politician: Let us make America great again!
+
+10A: Miso: Let's talk about something else.   #CYCLE FEATURE
+
+10B: Politician: Speak softly and carry a big stick.
